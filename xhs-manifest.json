@@ -1,0 +1,13 @@
+{
+  "id": "xhs-reader",
+  "name": "小红书阅读",
+  "version": "1.0.0",
+  "description": "检测对话中的小红书链接，自动读取内容注入上下文",
+  "author": "zxinyi404-maker",
+  "entry": "https://raw.githubusercontent.com/zxinyi404-maker/roche-plugins/main/xhs-reader.js",
+  "hash": "",
+  "permissions": [
+    "ai:chat",
+    "ui"
+  ]
+}
